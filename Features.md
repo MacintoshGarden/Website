@@ -1,4 +1,6 @@
 # Features
+With the new site, a lot of effort is going into remedying the shortcomings of the current website.  
+For archive "features", check out the Archive Improvements document.
 
 ## Officially Supported Themes
 * HTML 2.0 [Text Theme]
