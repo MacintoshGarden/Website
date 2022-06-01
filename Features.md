@@ -43,6 +43,14 @@ http://text.macintosh.garden
   * Personal profile
   * Privacy control
   * User blocking [staff not included]
+  * Jabber Account
+    * Create
+    * Delete
+    * Update
 * DiskTracker database support
 * DiskCatalogMaker database support
 * Serials archive, for everything no longer sold or supported
+* API (developers)
+  * Application Data
+  * Game Data
+  * File Data
