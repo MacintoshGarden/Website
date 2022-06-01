@@ -27,6 +27,10 @@ http://text.macintosh.garden
 * Automatic fallback to the Text theme if a text-based browser is detected
 * New Articles & Guides section
 * New, from the ground up discussion board (site forums)
+  * Bye-bye BBCode, hello Markdown
+  * Mention users
+  * Subscribe to threads
+  * Offsite linked images automatically downloaded and cached
 * Fresh user functionality
   * Friends system
   * Private messaging
@@ -41,3 +45,4 @@ http://text.macintosh.garden
   * User blocking [staff not included]
 * DiskTracker database support
 * DiskCatalogMaker database support
+* Serials archive, for everything no longer sold or supported
