@@ -9,12 +9,13 @@
 
 Each theme has different features, though the core experience remains the same.
 
-## Site Settings
-Anonymous users and registered alike have access to the site settings via the menu, which offers the possibility of changing how the site look, feels and behaves!  
-For registered users, this will mean that your settings will persist after logging in and applying the settings, next time you log back on the settings are applied instantly.
-
 ## What the above means
 The default theme offer a much lighter and faster browsing experience than ever before, miniscule amount traces of vanilla JS can be found which has zero impact on performance.
+
+## Site Settings
+Anonymous users and registered alike have access to the site settings via the menu, which offers the possibility of changing how the site look, feels and behaves!  
+
+For registered users, this will mean that your settings will persist after logging in and applying the different settings, next time you log back on the settings are applied instantly.
 
 ## Control through subdomains
 Graphics ain't your cup of tea? Apply the text subdomain and bypass the default theme / previous settings.
@@ -22,5 +23,21 @@ Graphics ain't your cup of tea? Apply the text subdomain and bypass the default 
 http://text.macintosh.garden
 
 ## Other Features
-* Automatic fallback to the Text theme if a text-based browser is detected
 * Access via HTTP, HTTPS (HTTP/2, HTTP/3, QUIC)
+* Automatic fallback to the Text theme if a text-based browser is detected
+* New Articles & Guides section
+* New, from the ground up discussion board (site forums)
+* Fresh user functionality
+  * Friends system
+  * Private messaging
+  * Personal notepad
+  * E-Mail notifications [disabled by default]
+  * Page subscriptions, be notified when a page is updated
+  * Forum subscriptions, be notified of replies or mentions
+  * Improved guestbook
+  * Stream access [twitter-like]
+  * Personal profile
+  * Privacy control
+  * User blocking [staff not included]
+* DiskTracker database support
+* DiskCatalogMaker database support
