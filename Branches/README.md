@@ -4,4 +4,4 @@ Instead of throwing all the contents into one basket (hey, less clutter and conf
 While this may seem confusing, it should hopefully seem less so if and when one gets a better feel for how it works.
 
 ## Branches
-* [Image Hosting](Branches/Image%20Hosting.md), exactly what it says on the tin.
+* [Image Hosting](Image%20Hosting.md), exactly what it says on the tin.
