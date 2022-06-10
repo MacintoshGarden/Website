@@ -6,8 +6,11 @@ While I would love to put all of the contents on the website, I really don't thi
 The website is mainly for presenting information on titles and serving up images, documents and the essential files. When there are more things available that is not presented on a title page, the page will state that there are more items available inside the archive.
 
 ## FTP
-One of the ways to access the archive in its entirety.  
-Note that the Incoming folder is reserved for file uploads, and while listing the contents is permitted - downloading is not.
+One of the ways to access the archive. Requires a username and password.  
+**Note** that the Incoming folder is reserved for file uploads, and while listing the contents is permitted - downloading is not.
+
+**Accessing the FTP**  
+All the connection information is available via the website.
 
 **Incoming Directory Explained**  
 Due to the nature of the archive, file uploads can be done by both registered and anonymous users.  
