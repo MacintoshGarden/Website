@@ -45,3 +45,10 @@ Games/
                     ├ file.extension
                     └ ...
 ```
+
+## Area Access / Limitations
+The *Incoming* folder of the public archive allows users and guests to create folders and upload files, however downloading from here will not work. Any files uploaded will need to be processed before being moved (or removed) - this to protect ourselves and our users from malicious contents.
+
+When it comes to games or applications that are adult oriented, these will not be found in the public archive due to their nature... we wouldn't want any virgin eyes to "accidentally" be subjected to that kind of material and cause an uproar. It takes effort to access this, and *that* is certainly not by accident.
+
+As for anything that is still sold, supported or simply too new to be publicly available, this is moved into the Vault for later publication. There is no point in asking for access to the Vault, any requests for this is ignored.
