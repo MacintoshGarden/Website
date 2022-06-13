@@ -10,3 +10,6 @@ The search engine is being overhauled and attempts to improve it are in the work
 
 **Discussion Board**  
 .
+
+## Advanced Search
+.
