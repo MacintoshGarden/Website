@@ -5,3 +5,4 @@ While this may seem confusing, it should hopefully seem less so if and when one 
 
 ## Branches
 * [Image Hosting](Image%20Hosting.md), exactly what it says on the tin.
+* [Web Hosting](Web%20Hosting.md), for those that wish to experience the 90's.
