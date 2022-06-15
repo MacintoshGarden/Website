@@ -12,9 +12,10 @@ For the various features, a document should be available - see the list below.
   * Mentioning users
   * Subscribing to threads
   * Markdown instead of BBCode / HTML
-  * Flat design instead of threaded list
+  * Flat list instead of threaded list
   * Automatic local storing and caching of external images
   * Post ranks
+  * Forum user profiles, seperate from the main user profiles
 
 ## Special Categories
 There are two categories which are different from the rest (at this point in time).
