@@ -15,8 +15,9 @@ For the various features, a document should be available - see the list below.
   * Flat list instead of threaded list
   * Automatic local storing and caching of external images
   * Post ranks
+  * Discussion Board ranks
   * Forum user profiles, seperate from the main user profiles
-  * Special categories
+  * Special categories (ties in with DB Ranks)
   * New / updated threads and posts read/unread status scaling much better
 
 ## Special Categories
