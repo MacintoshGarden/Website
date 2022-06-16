@@ -8,11 +8,11 @@ It is a solution to a couple of different issues.
 * HTTP/HTTPS confusion, some vintage browsers are unable to keep up with modern hosts
 * Image format support on vintage browsers
 
-## What it does
-When an offsite image is linked, GAIA will attempt to download the image and store it locally.  
-The original download is archived and post processed, creating different size copies and formats depending on browser compatibility.
+## What GAIA does
+When an offsite image is inserted into a post, GAIA will attempt to download the image and store it locally.  
+The original download is archived and processed, creating different size copies and formats depending on browser compatibility.
 
-The original URL is then rewritten to instead use the local copy.
+The original URL is then rewritten to instead use the local copy. Depending on which theme is in use, it will attempt to select the appropriate image format as well.
 
 GAIA will also attempt to automatically create the image tag required to inline the image, so that a user will only have to link the image itself and not have to worry about confusing tags - these can however be altered by the post owner after the initial post has been made.
 
@@ -31,4 +31,4 @@ This image format is widely used within the Garden 2009 theme, users of this the
 Currently the only themes using this image format is the Modern theme as well as the Mobile theme, however if the browser is capable of displaying WebP images, these will be displayed regardless of theme in use.
 
 ## Bugs
-There are some bugs I'm already aware of, I would however love to see reports if anyone comes across some.
+There are some bugs I'm already aware of, I would however love to see reports if anyone comes across one (or more).
