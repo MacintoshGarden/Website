@@ -17,13 +17,18 @@ No issues found.
 Automatically falls back to the text-theme and allows browsing the website without issues.
 
 ## Internet Explorer
-**Version**
+**Version 2.0.1**  
+Sends empty Host header, does not work.
+
+**Version 2.1**  
+Page caching issue found in relation to form submissions.  
+Change Update pages from *Once per session* to *Always*
 
 ## Netscape
-**Version**
+**Version 4**
 
 ## Opera
-**Version**
+**Version 5.0.0**
 
 ## WannaBe
 Text-Only browser with certain limitations. Things like tables, forms, bookmarks, cookies and several other features are not available in this browser.
