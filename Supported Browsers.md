@@ -4,13 +4,17 @@ A list of browsers along with a minor description of what works and not.
 ## Classilla
 **Version**
 
+## HotJava
+**Version 3.0**  
+Inconclusive, crashes when attempting to reach URL's.
+
 ## iCab
 **Version 2.99a/b**  
 No major issues found.  
 Loads the default theme, the 'full experience' is available.
 
 ## MacLynx
-Cameron Kaiser has put some impressive work in updating MacLynx, a MacOS implementation of the Lynx text-based browser.
+Cameron Kaiser has put some impressive work in updating MacLynx, a Macintosh implementation of the Lynx text-based browser.
 
 **Version b3**  
 No issues found.  
@@ -28,7 +32,13 @@ Change Update pages from *Once per session* to *Always*
 **Version 4**
 
 ## Opera
-**Version 5.0.0**
+**Version 5.0.485**  
+No major issues found.  
+Accepts basic JS setting, little of the Advanced.
+
+**Version 6.03**  
+No major issues found.  
+Accepts basic JS setting, very little of the Advanced.
 
 ## WannaBe
 Text-Only browser with certain limitations. Things like tables, forms, bookmarks, cookies and several other features are not available in this browser.
