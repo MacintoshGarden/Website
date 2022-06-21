@@ -26,13 +26,18 @@ http://text.macintosh.garden
 
 ## Other Features
 * Access via HTTP, HTTPS (HTTP/2, HTTP/3, QUIC)
-* Automatic fallback to the Text theme if a text-based browser is detected
-* New Articles & Guides section
+* Automatic fallback to the Text theme if a known text-based browser is detected
+* Improved Quick Search with available prefixes
+  * Search the archive for files
+  * Search listed (website accessible) files
+* Additional browsing / listing options.
+* New (improved) Articles & Guides section
 * New, from the ground up discussion board (site forums)
   * Bye-bye BBCode, hello Markdown
   * Mention users
   * Subscribe to threads
   * Offsite linked images automatically downloaded and cached
+  * Improved new / unread / updated engine
 * Fresh user functionality
   * Friends system
   * Private messaging
@@ -51,8 +56,13 @@ http://text.macintosh.garden
     * Update
 * DiskTracker database support
 * DiskCatalogMaker database support
+* User Hardware Compatibility Database (UHCD)
+  * Title-bound user hardware compatibilty with software titles
+  * Anyone can check the lists
+  * Registered users can add to the lists
 * Serials archive, for everything no longer sold or supported
 * API (developers)
   * Application Data
   * Game Data
   * File Data
+  * + More
