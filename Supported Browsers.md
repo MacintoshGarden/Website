@@ -10,6 +10,10 @@ Whitelisting of the macintosh.garden website is required since Classilla uses Sc
 **Version 3.0**  
 Inconclusive, crashes when attempting to reach URL's.
 
+**Current Failed Tests**
+Mac OS 9.2.2, MRJ 2.1.1  
+Mac OS 9.2.2, MRJ 2.2.5
+
 ## iCab
 **Version 2.99a/b**  
 No major issues found.  
