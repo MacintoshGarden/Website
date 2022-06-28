@@ -2,7 +2,7 @@
 A list of browsers along with a minor description of what works and not.
 
 ## Classilla
-**Version 9.3.3 / 9.3.4**  
+**Version 9.3.3 & 9.3.4b**  
 No major issues found.  
 Whitelisting of the macintosh.garden website is required since Classilla uses Script-B-Gone, its own front end to NoScript - if JS is to be used.
 
