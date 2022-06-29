@@ -37,6 +37,10 @@ Change Update pages from *Once per session* to *Always*
 ## Netscape
 **Version 4**
 
+## NetShark
+**Version 1.1.3**  
+Sends empty Host header, does not work.
+
 ## Opera
 **Version 5.0.485**  
 No major issues found.  
