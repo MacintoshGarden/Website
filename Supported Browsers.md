@@ -27,6 +27,9 @@ Sends empty Host header, does not work.
 Page caching issue found in relation to form submissions.  
 Change Update pages from *Once per session* to *Always*
 
+**Version 5.0**  
+No issues at all.
+
 ## MacLynx
 Cameron Kaiser has put some impressive work in updating MacLynx, a Macintosh implementation of the Lynx text-based browser.
 
