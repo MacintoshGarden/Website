@@ -43,7 +43,14 @@ Sends empty Host header, does not work.
 Sends empty Host header, does not work.
 
 ## Netscape
-**Version 4**
+**Version 1.12**  
+Sends empty Host header, does not work.
+
+**Version 2.0**  
+No major issues found, some HTML unsupported and will not render as designed.
+
+**Version 2.0.1**  
+No major issues found, some HTML unsupported and will not render as designed.
 
 ## NetShark
 **Version 1.1.3**  
