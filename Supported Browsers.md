@@ -19,13 +19,6 @@ Mac OS 9.2.2, MRJ 2.2.5
 No major issues found.  
 Loads the default theme, the 'full experience' is available.
 
-## MacLynx
-Cameron Kaiser has put some impressive work in updating MacLynx, a Macintosh implementation of the Lynx text-based browser.
-
-**Version b3**  
-No issues found.  
-Automatically falls back to the text-theme and allows browsing the website without issues.
-
 ## Internet Explorer
 **Version 2.0.1**  
 Sends empty Host header, does not work.
@@ -33,6 +26,21 @@ Sends empty Host header, does not work.
 **Version 2.1**  
 Page caching issue found in relation to form submissions.  
 Change Update pages from *Once per session* to *Always*
+
+## MacLynx
+Cameron Kaiser has put some impressive work in updating MacLynx, a Macintosh implementation of the Lynx text-based browser.
+
+**Version b3**  
+No issues found.  
+Automatically falls back to the text-theme and allows browsing the website without issues.
+
+## MacWWWW
+**Version 1.0.3**  
+Sends empty Host header, does not work.
+
+## NCSA Mosaic
+**Version 3.0b4**  
+Sends empty Host header, does not work.
 
 ## Netscape
 **Version 4**
