@@ -5,7 +5,7 @@ The website both does and does not use cookies, it depends on the situation.
 If a browser that supports cookies access the website, it will attempt to create a cookie.  
 
 ## When are cookies not used?
-When a browser is either forced into, or opt in to use the text-based theme, cookies are disabled.
+Cookies are disabled when a browser is either forced into, or opt in to use the text-based theme.
 
 ## What is the cookie used for?
 It's simply there for site core functionality, it is not used for anything else.  
