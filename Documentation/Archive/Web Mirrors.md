@@ -13,6 +13,8 @@ As an example, the first mirror in Sverige (Sweden) would receive sv1.mac.gdn, a
 ## Synchronizing
 Mirror hosts have access to the rsync server, or special FTP access in case rsync isn't an option.
 
+The *incoming* folder is excluded in both.
+
 ## Serving
 We can supply an NGiNX vhost config along with SSL certificates if HTTPS is going to be used, and a download script written in PHP.  
 There are commented variables available depending on how the mirror host would like to set things up.
