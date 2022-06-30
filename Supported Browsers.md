@@ -74,3 +74,7 @@ Text-Only browser with certain limitations. Things like tables, forms, bookmarks
 **Version 1.0b14**  
 No issues found.  
 Automatically falls back to the text-theme and allows browsing and downloading without issues.
+
+## WebTV Viewer
+**Any Version**  
+Minor rendering issues, resolution is too low. Otherwise appears to function very well.
