@@ -6,6 +6,12 @@ A list of browsers along with a minor description of what works and not.
 No major issues found.  
 Whitelisting of the macintosh.garden website is required since Classilla uses Script-B-Gone, its own front end to NoScript - if JS is to be used.
 
+## Cyberdog
+**Version 2.0**  
+Does not render some transparent GIF's correctly.  
+Many JPEG images not rendering properly.  
+Some HTML not rendering properly.
+
 ## HotJava
 **Version 3.0**  
 Inconclusive, crashes when attempting to reach URL's.
