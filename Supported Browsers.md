@@ -37,7 +37,7 @@ Cameron Kaiser has put some impressive work in updating MacLynx, a Macintosh imp
 No issues found.  
 Automatically falls back to the text-theme and allows browsing the website without issues.
 
-## MacWWWW
+## MacWWW
 **Version 1.0.3**  
 Sends empty Host header, does not work.
 
