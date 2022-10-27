@@ -4,7 +4,8 @@ Due to this, there is a slight impact on website performance.
 
 ## Encrypted Data
 * Username
-* Password
 * Display Name
+* Password
 * E-Mail
 * Notepad
+* Private Messages
