@@ -25,6 +25,9 @@ Mac OS 9.2.2, MRJ 2.2.5
 No major issues found.  
 Loads the default theme, the 'full experience' is available.
 
+**Version 3.0.5**  
+Minor style issues.
+
 ## Internet Explorer
 **Version 2.0.1**  
 Sends empty Host header, does not work.
