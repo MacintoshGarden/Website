@@ -5,7 +5,7 @@ For archive "features", check out the Archive Improvements document.
 ## Officially Supported Themes
 * HTML 2.0 [Text Theme]
 * HTML 3.2 [**Default Theme**]
-* XHTML 1.0 [Theme ported from macintoshgarden]
+* XHTML 1.0 [Theme ported from macintoshgarden.org]
 * HTML 5.0 [Mobile]
 * HTML 5.0 [Modern]
 
@@ -33,12 +33,14 @@ http://text.macintosh.garden
 * Additional browsing / listing options.
 * New (improved) Articles & Guides section
 * New, from the ground up discussion board (site forums)
-  * Bye-bye BBCode, hello Markdown
+  * Bye-bye BBCode. Hello Markdown!
   * Mention users
   * Subscribe to threads
   * Offsite linked images automatically downloaded and cached
   * Improved new / unread / updated engine
 * Fresh user functionality
+  * Account control / ownership
+    * Scrub account [equal to deleting digital footprint on website]
   * Friends system
   * Private messaging
   * Personal notepad
@@ -54,6 +56,11 @@ http://text.macintosh.garden
     * Create
     * Delete
     * Update
+* Library
+  * Books
+  * Magazines
+  * Videos
+  * Audio
 * DiskTracker database support
 * DiskCatalogMaker database support
 * User Hardware Compatibility Database (UHCD)
