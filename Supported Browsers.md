@@ -21,6 +21,9 @@ Mac OS 9.2.2, MRJ 2.1.1
 Mac OS 9.2.2, MRJ 2.2.5
 
 ## iCab
+**Version 1.25**  
+No major issues detected.
+
 **Version 2.99a/b**  
 No major issues found.  
 Loads the default theme, the 'full experience' is available.
@@ -62,6 +65,9 @@ Sends empty Host header, does not work.
 No major issues found, some HTML unsupported and will not render as designed.
 
 **Version 2.0.1**  
+No major issues found, some HTML unsupported and will not render as designed.
+
+**Version 2.0.2**  
 No major issues found, some HTML unsupported and will not render as designed.
 
 ## NetShark
