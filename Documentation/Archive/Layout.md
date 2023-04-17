@@ -22,14 +22,14 @@ Applications/
         └── Software_Title/
             ├── Documents/
             │   └── Version.Number/
-            |       ├ file.extension
+            │       ├ file.extension
             │       └ ...
             ├── Media/
-            |   └── Version.Number/
+            │   └── Version.Number/
             │       ├ file.extension
             │       └ ...
             ├── Preview/
-            |   └── Version.Number/
+            │   └── Version.Number/
             │       ├ file.extension
             │       └ ...
             └── Version/
@@ -49,7 +49,7 @@ Games/
             │       ├ file.extension
             │       └ ...
             ├── Preview/
-            |   └── Version.Number/
+            │   └── Version.Number/
             │       ├ file.extension
             │       └ ...
             └── Version/
