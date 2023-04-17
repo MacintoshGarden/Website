@@ -1,15 +1,15 @@
 # GAIA
-This is a system that is currently tied to the discussion boards, it has a variety purposes.  
+This is a system that is currently only tied to the discussion boards right now, and its purpose is to mirror images from external hosts.  
 It is a solution to a couple of different issues.
 
-**Solves a few issues, like ...**  
+**Solves certain issues, like ...**  
 * Image is deleted due to inactivity at the host
 * Image is deleted due to host being bought up or shut down
 * HTTP/HTTPS confusion, some vintage browsers are unable to keep up with modern hosts
 * Image format support on vintage browsers
 
 ## What GAIA does
-When an offsite image is inserted into a post, GAIA will attempt to download the image and store it locally.  
+When an offsite / external image is inserted into a post, GAIA will attempt to download the image and store it locally.  
 The original download is archived and processed, creating different size copies and formats depending on browser compatibility.
 
 The original URL is then rewritten to instead use the local copy. Depending on which theme is in use, it will attempt to select the appropriate image format as well.
