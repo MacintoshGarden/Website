@@ -21,11 +21,17 @@ Applications/
     └── _Subcategory/
         └── Software_Title/
             ├── Documents/
-            │   ├ file.extension
-            │   └ ...
+            │   └── Version.Number/
+            |       ├ file.extension
+            │       └ ...
             ├── Media/
-            │   ├ file.extension
-            │   └ ... 
+            |   └── Version.Number/
+            │       ├ file.extension
+            │       └ ...
+            ├── Preview/
+            |   └── Version.Number/
+            │       ├ file.extension
+            │       └ ...
             └── Version/
                 └── Version.Number/
                     ├ file.extension
@@ -35,11 +41,17 @@ Games/
     └── _Subgenre/
         └── Software_Title/
             ├── Documents/
-            │   ├ file.extension
-            │   └ ...
+            │   └── Version.Number/
+            │       ├ file.extension
+            │       └ ...
             ├── Media/
-            │   ├ file.extension
-            │   └ ... 
+            │   └── Version.Number/
+            │       ├ file.extension
+            │       └ ...
+            ├── Preview/
+            |   └── Version.Number/
+            │       ├ file.extension
+            │       └ ...
             └── Version/
                 └── Version.Number/
                     ├ file.extension
