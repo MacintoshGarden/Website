@@ -4,5 +4,5 @@ Instead of throwing all the contents into one basket (hey, less clutter and conf
 While this may seem confusing, it should hopefully seem less so if and when one gets a better feel for how it works.
 
 ## Branches
-* [Image Hosting](Image%20Hosting.md), exactly what it says on the tin.
-* [Web Hosting](Web%20Hosting.md), for those that wish to experience the 90's.
+* [Image Hosting](Image-Hosting.md), exactly what it says on the tin.
+* [Web Hosting](Web-Hosting.md), for those that wish to experience the 90's.

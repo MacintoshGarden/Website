@@ -6,3 +6,7 @@ Web and file hosting, the way it was before fancy web panels, online HTLM editor
 Unmetered Transfer.  
 FTP & AFP Access.  
 Personal space for a website. (shared with your total disk quota)
+
+## Upcoming Changes
+The Web / File Hosting service is looking at being upgraded soon™  
+More coming later!

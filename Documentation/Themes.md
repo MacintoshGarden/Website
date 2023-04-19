@@ -13,7 +13,7 @@ For those unwilling to take the leap and accept change, this theme has been port
 This theme is in still in the early stages, but will present a basic yet functional experience for hunting applications and games.
 
 ## Modern [HTML 5]
-Bells, whistles and the kitchen sink... World 2022 and beyond generic web experience of eye candy and bloat.
+Bells, whistles and the kitchen sink... The generic bloat of our time.
 
 ## Text [HTML 2.0] [default for text-based browsers]
-There are no graphical elements, everything is presented in glorious black text on a white background.
+There are no graphical elements, everything is presented in glorious text.
