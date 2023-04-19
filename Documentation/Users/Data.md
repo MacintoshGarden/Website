@@ -5,6 +5,7 @@ Due to this, there is a slight impact on website performance.
 ## Encrypted Data
 * Username
 * Display Name
+* Avatar filenames
 * Password
 * E-Mail
 * Notepad
