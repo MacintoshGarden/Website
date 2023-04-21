@@ -10,7 +10,7 @@ One of the ways to access the archive. Requires a username and password.
 **Note** that the Incoming folder is reserved for file uploads, and while listing the contents is permitted - downloading is not.
 
 **Accessing the FTP**  
-All the connection information is available via the website.
+All the connection information is available via [the website](http://macintosh.garden/ftp).
 
 **Incoming Directory Explained**  
 Due to the nature of the archive, file uploads can be done by both registered and anonymous users.  

@@ -10,7 +10,7 @@ A good middle ground for nearly anything old, and somewhat new... users with 8k+
 For those unwilling to take the leap and accept change, this theme has been ported over from macintoshgarden.org and looks roughly the same, but benefits from the new system. Many new / changed elements.
 
 ## Mobile [HTML 5] [mobile / tablet default]
-This theme is in still in the early stages, but will present a basic yet functional experience for hunting applications and games.
+This theme is in still in the early stages, but will present a basic yet functional experience for hunting applications and games on a mobile device.
 
 ## Modern [HTML 5]
 Bells, whistles and the kitchen sink... The generic bloat of our time.

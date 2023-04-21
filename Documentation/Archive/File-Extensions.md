@@ -1,0 +1,3 @@
+# File Extensions
+
+### Placeholder

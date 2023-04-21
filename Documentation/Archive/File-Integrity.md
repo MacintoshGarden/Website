@@ -13,4 +13,4 @@ For more information on verifying files using this method, check out the Guides.
 
 ### Digital Signatures
 We digitally sign files without encrypting them, this is another means available so that you know where the file comes from and to verify that said file hasn't been tampered with.  
-For more information on verifying using this method, check out the Guides.
+For more information on verifying files using this method, check out the Guides.
