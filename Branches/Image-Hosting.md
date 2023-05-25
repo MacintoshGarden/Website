@@ -2,21 +2,19 @@
 A very basic and simple image hosting service, available to vintage and modern browsers alike.
 
 ## Description
-The service allows images up to 3 MB in size to be uploaded - keep in mind that we do not manipulate images, therefore metadata is *not* scrubbed.
+The service allows images up to 4 MB in size to be uploaded - keep in mind that we do not manipulate images, therefore metadata is *not* scrubbed.
 
 It is intended mainly for hosting images in relation to Macintosh Garden, but not limited to this space.  
 Anyone can use the service - free from ads, time constraints, registration, tracking, manipulation.
 
 ## Supported Image Formats
-The service currently handles the following basic formats; GIF, JPG/JPEG, PNG, WebP
+The service currently handles the following basic formats; GIF, JPG/JPEG, PICT, PNG/APNG, WebP
 
-There is also support for images (MacPaint) / screenshots taken from System 6 and System 7, however a file extension has to be appended to the filename prior to uploading the image(s).
+**Note that** the service will not accept image files without a proper file extension attached.
 
-**MacPaint Images / System 6 Screenshots**  
-Append the .mac or .paint extension to the filename.
+## Bugs / Issues
+There are minor known issues with PICT images, though generally works 99% of the time.
 
-**PICT Images / System 7 Screenshots**  
-Append either .pct or .pict to the filename.
-
-## Bugs
-There are some known minor bugs related to PICT files.
+## News
+Version 2.0.0 officially released on May 20th, 2023.  
+This is a complete rewrite of the entire image hosting service, improving stability and performance.
