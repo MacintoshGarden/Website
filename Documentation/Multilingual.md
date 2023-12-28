@@ -5,8 +5,8 @@ The website is able to display most of the text found in multiple different lang
 Via the Site Settings, available to both registered and guests, the language can be changed from the language dropdown list.  
 Changes are applied (at least should be) instantly.
 
-## Additional Translations
-Translations are community efforts and derived from the English language file, tailored to fit the website. If a native language is missing from the list of available languages and feel up to the task, a translation is more than welcome.
+## Additional Information
+The base language is English, and it's machine translated into other languages.  
+This impacts the performance a bit if the translation is not cached, though once cached it should be just as performant as the text in English when rendering pages.
 
-**Template File**  
-WIP
+As machine translation is used, there may and will be some inaccurate translations - however, this should only be minor.
