@@ -5,11 +5,19 @@ Each member signed up at the Garden gets a key assigned automatically, though a 
 Requesting a developer key isn't really that hard, fill in one form field and hit submit - wait for a response.
 
 ## Access Levels
+**Public / Guest**  
+Strict & limited API operations.
+
 **Regular**  
-Basic API operations. X calls per day.
+Basic API operations.
 
 **Developer**  
-Basic API operations. Unlimited calls per day.
+Basic API operations.  
+Unlimited calls per day.
 
 ## Limitations
-Placeholder
+There are some limitations when it comes to the **public / guest** as well as **regular** API access levels that are important to note.
+
+**Public / Guest**  
+This is rate limited and regulated in terms of how much information can be searched and fetched.  
+*title*, *canonical url*, *category/genre*, *year*, *developer*, *publisher*
