@@ -3,7 +3,8 @@ By default, any and all E-Mail notifications are disabled for freshly registered
 
 Notification settings are available in the User Panel when logged in, and is pretty straightforward.
 
-Subscriptions will have a page of its own at some point, to easily see and manage all of the items subscribed to; currently - sub/unsub will have to be done where the action was performed.
+A handy subscription manager is also available that will list current subscriptions.  
+Links are presented where applicable, and the option to remove subscriptions is also available.
 
 ## Discussion Board Mentions
 Users can mention one another by @username, though there are no notifications sent out. An event is however logged on the user panel regardless.  
@@ -19,4 +20,5 @@ Notification are available for private messages, though no notifications are sen
 It's possible to be notified if someone enters something into your guestbook, though nothing is delivered until enabled... an event is logged on the user panel regardless.
 
 ## Bookmarked Software
-It's entirely possible to receive a notification when a page is updated, how fancy is that?
+It's entirely possible to receive a notification when a page is updated, how fancy is that?  
+Notifications for software entries are somewhat limited, to prevent excessive, unnecessary and perhaps abusive use.
