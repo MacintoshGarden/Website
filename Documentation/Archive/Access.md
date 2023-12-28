@@ -14,7 +14,7 @@ All the connection information is available via [the website](http://macintosh.g
 
 **Incoming Directory Explained**  
 Due to the nature of the archive, file uploads can be done by both registered and anonymous users.  
-To protect ourselves as well as any user from malicious files, the contents of the Incoming folder needs to be processed by the system before it is moved to the appropriate area.
+To protect ourselves as well as users from malicious files, the contents of the Incoming folder needs to be processed by the system and staff before it is moved to the appropriate area.
 
 ## Hotline
 Another way to access the archive. Guest access is enabled.
@@ -23,4 +23,4 @@ Another way to access the archive. Guest access is enabled.
 The Hotline server is currently offline.
 
 **File Size Limitations**  
-Note that attempting to download files larger than xGB will cause some issues, this is a limitation with Hotline.
+Note that attempting to download files larger than 2 GB will most likely cause issues, this is a limitation with Hotline itself.
