@@ -19,10 +19,14 @@ Anonymous users and registered alike have access to the site settings via the me
 
 For registered users, this will mean that your settings will persist after logging in and applying the different settings, next time you log back on the settings are applied instantly.
 
+In case one would want to reset any site settings made for whatever reason, a route called /reset will have to be called manually by the user - this will do things differently depending on if one is either logged in or browsing as an anonymous user. For anonymous users it will reset the session, cookies and all site settings; while for a logged in users it will do the same as well as reset the settings stored in the database to the website defaults.
+
 ## Control through subdomains
 Graphics ain't your cup of tea? Apply the text subdomain and bypass the default theme / previous settings.
 
 http://text.macintosh.garden
+
+* The reset route can not be called from this subdomain, since there is nothing to reset to begin with.
 
 ## Other Features
 * Access via HTTP, HTTPS (HTTP/2, HTTP/3, QUIC)
