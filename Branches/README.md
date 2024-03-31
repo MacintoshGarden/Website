@@ -5,4 +5,5 @@ While this may seem confusing, it should hopefully seem less so if and when one 
 
 ## Branches
 * [Image Hosting](Image-Hosting.md), exactly what it says on the tin.
+* [Public Proxy](Public-Proxy.md), A simple public proxy made for vintage computers in mind.
 * [Web Hosting](Web-Hosting.md), for those that wish to experience the 90's, before online editors and their offspring became a thing.
