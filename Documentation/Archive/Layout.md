@@ -17,45 +17,47 @@ Subcategories as well as subgenres are easily identified by an underscore before
 
 ```bash
 Applications/
-└── Category/
-    └── _Subcategory/
-        └── Software_Title/
-            ├── Documents/
-            │   └── Version.Number/
-            │       ├ file.extension
-            │       └ ...
-            ├── Media/
-            │   └── Version.Number/
-            │       ├ file.extension
-            │       └ ...
-            ├── Preview/
-            │   └── Version.Number/
-            │       ├ file.extension
-            │       └ ...
-            └── Version/
-                └── Version.Number/
-                    ├ file.extension
-                    └ ...
+└── Platform/
+    └── Category/
+        └── _Subcategory/
+            └── Software_Title/
+                ├── Documents/
+                │   └── Version.Number/
+                │       ├ file.extension
+                │       └ ...
+                ├── Media/
+                │   └── Version.Number/
+                │       ├ file.extension
+                │       └ ...
+                ├── Preview/
+                │   └── Version.Number/
+                │       ├ file.extension
+                │       └ ...
+                └── Version/
+                    └── Version.Number/
+                        ├ file.extension
+                        └ ...
 Games/
-└── Genre/
-    └── _Subgenre/
-        └── Software_Title/
-            ├── Documents/
-            │   └── Version.Number/
-            │       ├ file.extension
-            │       └ ...
-            ├── Media/
-            │   └── Version.Number/
-            │       ├ file.extension
-            │       └ ...
-            ├── Preview/
-            │   └── Version.Number/
-            │       ├ file.extension
-            │       └ ...
-            └── Version/
-                └── Version.Number/
-                    ├ file.extension
-                    └ ...
+└── Platform/
+    └── Genre/
+        └── _Subgenre/
+            └── Software_Title/
+                ├── Documents/
+                │   └── Version.Number/
+                │       ├ file.extension
+                │       └ ...
+                ├── Media/
+                │   └── Version.Number/
+                │       ├ file.extension
+                │       └ ...
+                ├── Preview/
+                │   └── Version.Number/
+                │       ├ file.extension
+                │       └ ...
+                └── Version/
+                    └── Version.Number/
+                        ├ file.extension
+                        └ ...
 ```
 
 ## Area Access / Limitations
