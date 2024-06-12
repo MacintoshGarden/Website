@@ -5,6 +5,8 @@ Mirrors generally get the contents from the Main archive, but can also grab file
 ## Additional Functions
 Maintains a complete file index with checksums, stored in a database.  
 Periodic checksumming of files.  
+Parity archives.  
+PGP/GPG signed files.
 
 ## Additional Tools
 API Toolbox.  
