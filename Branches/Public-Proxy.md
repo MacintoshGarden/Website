@@ -9,7 +9,7 @@ Anyone can use the service - free from time constraints, registration, tracking,
 ## Getting Started
 Enter these details into your **HTTP** proxy settings.
 
-**Host:** 49.13.95.239  
+**Host:** -  
 **Port:** 8080
 
 ## Features
