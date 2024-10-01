@@ -71,7 +71,12 @@ http://text.macintosh.garden
   * Title-bound user hardware compatibilty with software titles
   * Anyone can check the lists
   * Registered users can add to the lists
-* Serials archive, for everything no longer sold or supported
+* Emulator Compatibility Database (ECD)
+  * Title-bound emulator compatibilty with software titles
+  * Anyone can check the lists
+  * Registered users can add to the lists
+* Serials archive, for everything/anything no longer sold or supported
+* File Type / Creator database.
 * API (developers)
   * Application Data
   * Game Data
