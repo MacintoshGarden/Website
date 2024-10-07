@@ -43,8 +43,9 @@ http://text.macintosh.garden
   * Offsite linked images automatically downloaded and cached
   * Improved new / unread / updated engine
 * Fresh user functionality
+  * New accounts do not require users to tie an E-Mail address to the account.
   * Account control / ownership
-   * Scrub account [equal to deleting digital footprint on website]
+    * Scrub account [equal to deleting digital footprint on website]
   * Friends system
   * Private messaging
   * Personal notepad
@@ -57,9 +58,9 @@ http://text.macintosh.garden
   * Privacy control
   * User blocking [staff not included]
   * Jabber Account
-   * Create
-   * Delete
-   * Update
+    * Create
+    * Delete
+    * Update
 * Library
   * Books
   * Magazines
@@ -67,7 +68,7 @@ http://text.macintosh.garden
   * Audio
 * DiskTracker database support
 * DiskCatalogMaker database support
-* User Hardware Compatibility Database (UHCD)
+* Hardware Compatibility Database (HCD)
   * Title-bound user hardware compatibilty with software titles
   * Anyone can check the lists
   * Registered users can add to the lists
