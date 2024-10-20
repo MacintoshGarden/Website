@@ -70,6 +70,13 @@ No major issues found, some HTML unsupported and will not render as designed.
 **Version 2.0.2**  
 No major issues found, some HTML unsupported and will not render as designed.
 
+**Version 4.8**  
+No major issues found.
+
+**Version 7.0.2**  
+Minor JS issues, other than that it appears to be working as intended.  
+JS issues can / will be resolved at a later stage.
+
 ## NetShark
 **Version 1.1.3**  
 Sends empty Host header, does not work.
